@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "560c90ae-e4a8-408c-b76c-8ddfa926319f",
+            "Value": {
+                "id": "ee23e44f-04e9-4528-a61c-76413d2b4876",
+                "resourcePath": "objects\\obRegularTile\\obRegularTile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "56f4a0e8-bc26-465d-8934-764c2c246422",
             "Value": {
                 "id": "a6e3f482-c68b-4890-9071-dfdf39c88567",
