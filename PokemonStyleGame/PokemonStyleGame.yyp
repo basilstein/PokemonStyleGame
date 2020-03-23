@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "a7acdfc1-ed5f-4212-bc13-69d021aec3cd",
+            "Value": {
+                "id": "884ed788-cb04-4e7a-a28b-4e979b32da62",
+                "resourcePath": "objects\\obEnemy\\obEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "5acb9b04-2e27-413a-bafd-74357db4063a",
